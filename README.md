@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlpineSnowfall
 - 👀 I’m interested in token engineering
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m doing Solidity
 - 💞️ I’m looking to collaborate on anything blockchain
 - 📫 How to reach me ...
 
